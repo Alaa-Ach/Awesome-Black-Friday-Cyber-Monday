@@ -455,6 +455,7 @@ Total deals: 410
 | 🌟 | [Writastic](https://writastic.com/)    | Make Your Post 10x Viral - From boring to fascinating with templates and rewriting | 50% OFF on all plans with the code **BF2024** (Nov 22 - Dec 6) |
 | ⭐ | [WP to Buffer Pro](https://www.wpzinc.com/plugins/wordpress-to-buffer-pro/) | Auto send content from WordPress to Facebook, X, Instagram, Threads, LinkedIn, Pinterest, Mastodon, Bluesky and Google Business using Buffer.com | 30% OFF with code **BF2024** |
 | 🟠 | [OSCR AI](https://www.oscr.tech/) | Transform research, videos, audio, and long-form articles into engaging, on-brand social posts in seconds. | 50% OFF on all plans with the code **BF2024** (Nov 18 - Dec 15) |
+| 🔗 | [Nuelink](https://nuelink.com/pricing) | Nuelink is a social media management and automation tool designed for a wide range of professionals including but not limited to agencies, e-commerce brands, podcasters, creators, and agencies. Nuelink helps you manage, schedule, analyze, and automate social media posts across 12+ different social media platforms such as Instagram, TikTok, and Pinterest. With extra features such as bulk scheduling, link-in-bio, and link shortener. | 50% OFF on all yearly plans (Nov 5 - Dec 9) |
 
 
 [⬆️ Go to Top](#table-of-contents)
